@@ -1,0 +1,9 @@
+.breadcrumbs-top a {
+    width: auto;
+}
+.flatpickr-time {
+    height: auto !important;
+}
+select[readonly] {
+    pointer-events: none;
+}
